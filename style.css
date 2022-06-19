@@ -1,0 +1,47 @@
+  *{
+    box-sizing: border-box;
+  }
+  body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+    
+  }
+  
+  
+  .new{
+
+    background-color: rgb(26, 37, 86);
+     
+   }
+
+   .bg1{
+    background-color: rgb(88, 170, 174);
+    
+   } 
+
+   .heading{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(255, 249, 249);
+      text-align: center;
+      text-decoration: underline;
+      text-transform: capitalize;
+      text-align:
+       ;
+    }
+    .img{
+      float: right;
+    }
+    .pay{
+      background-color: rgba(255, 255, 255, 0.421);
+      color: rgb(246, 10, 128);
+      padding: 12px 20px;
+      font-weight: bold;
+      border:none;
+      border-radius: 6px;
+      cursor: pointer;
+      width: 100;
+    }
+    
